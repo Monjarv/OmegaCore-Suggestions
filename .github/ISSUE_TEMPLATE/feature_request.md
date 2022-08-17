@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Richiesta Suggerimento
+about: Compila il modulo per i suggerimenti.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**La tua richiesta deriva da un problema?**
+Una spiegazione chiara e concisa. Es. Sono frustrato quando SCP-939 [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Descrivi una soluzione che ti potrebbe piacere**
+Es. Vorrei che SCP-939 avesse 300HP in più.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Vorresti implementare qualcosa di nuovo?**
+Una spiegazione completa che dovrà descrivere a pieno dettaglio cosa farà quella determinata aggiunta. Es. Voglio aggiungere SCP-945 che farà [...].
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contenuto aggiuntivo**
+Aggiungi Screenshot o informazioni aggiuntive se le possiedi.
